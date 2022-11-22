@@ -1,0 +1,21 @@
+#Example {
+   border: 3px solid black;
+   padding: 10px;
+   margin: 58.3px;
+   text-align: center;
+
+
+   background-color: white;
+}
+body{
+    background-image: url(/IMAGE/branimir-balogovic-yY66QAbGxq4-unsplash.jpg); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+    size-adjust: 123;
+}
+
+
+
